@@ -4,7 +4,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Archived_Mirror-blue?style=for-the-badge&logo=git)
 ![Version](https://img.shields.io/badge/Build-v2.x_Stable-success?style=for-the-badge)
-![Integrity](https://img.shields.io/badge/SHA256-Verified-brightgreen?style=for-the-badge&logo=shield)
 ![Maintenance](https://img.shields.io/badge/Maintained-No_(Read--Only)-inactive?style=for-the-badge)
 
 *Repositório estático de preservação e redundância. Nenhuma modificação foi feita no código-fonte ou nos binários originais.*
