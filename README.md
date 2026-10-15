@@ -22,8 +22,8 @@ Links caem, fóruns saem do ar e repositórios principais sofrem *takedowns* ou 
 
 O objetivo aqui é garantir que uma cópia íntegra da `v2` permaneça acessível e livre de *malwares* que costumam surgir em re-uploads de terceiros pela internet.
 
-🛠️ Créditos & Upstream
+## 🛠️ Créditos & Upstream
 Todo o mérito de engenharia reversa, desenvolvimento e manutenção dos configs pertence ao desenvolvedor original (anadius). Se o repositório ou tópico oficial ainda estiver ativo na comunidade original (CS.RIN), dê preferência sempre à fonte primária para obter atualizações de configurações.
 
-[!CAUTION]
+## [🔺CAUTION]
 Disclaimer Legal: Todo o conteúdo armazenado neste repositório tem finalidade estritamente arquivística, educacional e de estudo sobre interoperabilidade de software e gerenciamento de bibliotecas locais. O mantenedor deste backup não se responsabiliza pelo mau uso dos arquivos aqui contidos, banimentos de contas ou violações de Termos de Serviço (ToS) de plataformas de terceiros. Use por sua conta e risco (preferencialmente offline).
